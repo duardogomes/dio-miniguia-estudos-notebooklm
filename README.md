@@ -19,13 +19,17 @@ O objetivo deste estudo é compreender melhor o assunto, explorar seus principai
 
 [Miniguia de Estudo](/Miniguia_de_Estudo.md)
 
-#### Estúdio
-##### Mapa Mental
+### Estúdio
+#### Mapa Mental
 
 [Consolidado](/Arquitetura_da_Mente__Inteligência_Emocional_e_PNL_Aplicada.png)
 
 [Nós Abertos](/Arquitetura_da_Mente__Inteligência_Emocional_e_PNL_Aplicada_todos_nós.png)
 
-##### Apresentação
+#### Apresentação
 
-[Apresentação](/PNL e Inteligência Emocional.pdf)
+[Apresentação](/PNL_e_Inteligência_Emocional.pdf)
+
+#### Resumo em vídeo
+_Arquivo ficou grande e não foi possível fazer o upload._
+
