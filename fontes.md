@@ -53,3 +53,7 @@ https://www.youtube.com/watch?v=sOgJEhYeQ34
 https://www.youtube.com/watch?v=xCP4hbNM4pI
 
 https://www.youtube.com/watch?v=zhSWtAsv7NA
+
+Texto Copiado: "Comporta-se como um psicoterapeuta, com formação em neurolinguística, processos de coaching, com especialização em foco emocional (Practitioner em PNL)"
+
+Usado também a pesquisa do Deep Research: "entender como PNL e inteligência emocional se complementam"
